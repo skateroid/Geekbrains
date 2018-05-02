@@ -1,0 +1,5 @@
+image_index cost fire_rate damage radius
+0 50 0.1 2 300
+1 70 0.05 3 350
+2 100 0.5 10 500
+3 150 0.3 13 550
